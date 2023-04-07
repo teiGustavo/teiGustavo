@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:books: Estudo no Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais
+- :books: Estudo no Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais
 - 🌱 Atualmente estou dedicando meu tempo em C++ para programação competitiva
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
