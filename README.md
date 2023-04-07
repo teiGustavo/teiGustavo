@@ -4,4 +4,4 @@
 - 🌱 Atualmente estou dedicando meu tempo em C++ para programação competitiva
 - ⚡ Minha linguagem predileta é o PHP :D
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teiGustavo&layout=compact)](https://github.com/teiGustavo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teiGustavo&layout=compact)](https://github.com/teiGustavo/)
