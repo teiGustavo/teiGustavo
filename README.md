@@ -5,3 +5,7 @@
 - ⚡ Minha linguagem predileta é o PHP :D
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teiGustavo&layout=compact)](https://github.com/teiGustavo/)
+
+##
+
+![snake gif](https://github.com/teiGustavo/teiGustavo/blob/output/github-contribution-grid-snake.svg)
