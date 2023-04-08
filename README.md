@@ -3,6 +3,7 @@
 - :books: Estudo no Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais
 - 🌱 Atualmente estou dedicando meu tempo em C++ para programação competitiva
 - ⚡ Minha linguagem predileta é o PHP :D
+- 🧮 Finalista da Olimíada Brasileira de Informática (OBI 2022)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teiGustavo&layout=compact&theme=codeSTACKr)](https://github.com/teiGustavo/)
 
