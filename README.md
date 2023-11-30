@@ -1,7 +1,7 @@
 ## Olá, eu sou o Gustavo Teixeira ^-^
 
 - :books: Estudo no Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais
-- 🌱 Atualmente estou dedicando meu tempo em C++ para programação competitiva
+- 🌱 Atualmente estou dedicando meu tempo em frameworks PHP e JS
 - ⚡ Minha linguagem predileta é o PHP :D
 - 🧮 Finalista da Olimpíada Brasileira de Informática (OBI 2022 e 2023)
 
