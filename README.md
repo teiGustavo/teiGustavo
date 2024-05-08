@@ -2,7 +2,7 @@
 
 - :books: Formado como Técnico em Informática pelo Instituto Federal do Sudeste de Minas Gerais - IFSEMG
 - :books: Cursando Tecnologia em Gestão da Tecnologia da Informação pelo Instituto Federal do Sudeste de Minas Gerais - IFSEMG
-- 🌱 Atualmente estou dedicando meu tempo em Typescript e API's em Node.js
+- 🌱 Atualmente estou dedicando meu tempo em Estrutura de Dados e Escalabilidade Horizontal de Aplicações WEB
 - ⚡ Minha linguagem predileta é o PHP :D
 - 🧮 Finalista da Olimpíada Brasileira de Informática (OBI 2022 e 2023)
 
